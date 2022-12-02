@@ -1,4 +1,4 @@
-class FingerCalculator {
+class FigureCalculator {
   constructor(mathBasic) {
     this.mathBasic = mathBasic;
   }
@@ -60,4 +60,4 @@ class FingerCalculator {
   }
 }
 
-module.exports = FingerCalculator;
+module.exports = FigureCalculator;
